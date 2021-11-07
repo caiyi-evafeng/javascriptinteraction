@@ -1,0 +1,16 @@
+#fortune-output{
+  transition: color 2s, font-size 2s, transform 2s;
+  transform-origin: center center;
+  text-align: center;
+
+}
+
+body,html{
+  height:100%;
+}
+.center{
+  height:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
